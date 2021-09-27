@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AJ-Boland
-- 👀 I’m interested in cosing
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning c and cs162 at LBCC
 - 💞️ I’m looking to collaborate on Java projects related to Minecraft, those are fun.
 - 📫 How to reach me, anjuboland@gmail.com is the best.
